@@ -1,0 +1,18 @@
+
+.list{
+text-align: left;
+}
+
+.list > ul > ul >table, th, td{
+border: 1px solid black;
+}
+
+body {
+text-align: center;
+font-family:'arial';
+}
+
+body{
+background-color: #f1948a  ;
+}
+
